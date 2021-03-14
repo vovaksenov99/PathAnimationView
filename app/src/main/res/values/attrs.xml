@@ -1,0 +1,8 @@
+<resources>
+
+    <declare-styleable name="PlaneLoadingView">
+        <attr name="icon" format="reference" />
+        <attr name="iconSize" format="dimension" />
+    </declare-styleable>
+
+</resources>

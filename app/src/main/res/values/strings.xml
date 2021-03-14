@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="from_city">Место вылета</string>
+    <string name="to_city">Место прибытия</string>
+    <string name="search">Поиск</string>
+    <string name="loading">Загрузка…</string>
+    <string name="something_went_wrong">Что-то пошло не так\n\nСамой большой ошибкой, которую вы можете совершить в своей жизни, является постоянная боязнь ошибаться\n\n —Элберт Грин Хаббард</string>
+    <string name="too_close_to_finish_point">Ну тут можно и пешочком прогуляться. Введите другое место</string>
+    <string name="wrong_city">Место не найдено. Попробуйте иначе :) </string>
+</resources>
